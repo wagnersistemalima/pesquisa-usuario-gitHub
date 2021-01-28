@@ -1,0 +1,8 @@
+$theme-colors: (
+    "primary": #1890FF
+);
+
+$body-bg:  #E5E5E5;   // cor de fundo da pagina
+$body-color:#262626;  // cor dos textos
+
+@import '~bootstrap/scss/bootstrap.scss';
